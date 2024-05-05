@@ -2,51 +2,51 @@
   {
     "id": 1,
     "author": "John Doe",
-    "title": "Exploring the Universe",
-    "author_img": "john_doe.jpg",
+    "title": "How to get your first job as a self-taught programmer",
+    "author_img": "https://i.postimg.cc/tCtPRgRY/boy1.png",
     "posted_date": "2024-05-04",
     "hashtags": ["space", "astronomy", "universe"],
     "reading_time": "15 mins",
-    "cover": "universe_cover.jpg"
+    "cover": "https://i.ibb.co/23b3XbW/Rectangle-1-1.jpg"
   },
   {
     "id": 2,
     "author": "Jane Smith",
-    "title": "The Art of Cooking",
-    "author_img": "jane_smith.jpg",
+    "title": "How to get your first job as a self-taught programmer",
+    "author_img": "https://i.postimg.cc/vmjx2ghS/girl1.jpg",
     "posted_date": "2024-05-03",
     "hashtags": ["cooking", "food", "recipes"],
     "reading_time": "10 mins",
-    "cover": "cooking_cover.jpg"
+    "cover": "https://i.ibb.co/J3K2TTD/Rectangle-1-2.jpg"
   },
   {
     "id": 3,
     "author": "Alex Johnson",
-    "title": "Mastering Python",
-    "author_img": "alex_johnson.jpg",
+    "title": "How to get your first job as a self-taught programmer",
+    "author_img": "https://i.postimg.cc/1tqnkmYR/girl2.jpg",
     "posted_date": "2024-05-02",
     "hashtags": ["programming", "python", "coding"],
     "reading_time": "20 mins",
-    "cover": "python_cover.jpg"
+    "cover": "https://i.postimg.cc/Dw9CVZxm/java.jpg"
   },
   {
     "id": 4,
     "author": "Emily Brown",
-    "title": "The Power of Meditation",
-    "author_img": "emily_brown.jpg",
+    "title": "How to get your first job as a self-taught programmer",
+    "author_img": "https://i.postimg.cc/1tqnkmYR/girl2.jpg",
     "posted_date": "2024-05-01",
     "hashtags": ["meditation", "mindfulness", "wellness"],
     "reading_time": "12 mins",
-    "cover": "meditation_cover.jpg"
+    "cover": "https://i.ibb.co/X3QsJCC/Rectangle-1.jpg"
   },
   {
     "id": 5,
     "author": "Michael Lee",
-    "title": "Investing for Beginners",
-    "author_img": "michael_lee.jpg",
+    "title": "How to get your first job as a self-taught programmer",
+    "author_img": "https://i.postimg.cc/RZgHfbHm/boy2.jpg",
     "posted_date": "2024-04-30",
     "hashtags": ["investing", "finance", "stocks"],
     "reading_time": "18 mins",
-    "cover": "investing_cover.jpg"
+    "cover": "https://i.postimg.cc/RZY0vrtW/4.jpg"
   }
 ]
