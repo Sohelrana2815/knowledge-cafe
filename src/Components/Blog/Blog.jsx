@@ -1,6 +1,6 @@
 import { FiBookmark } from "react-icons/fi";
 import PropTypes from "prop-types";
-const Blog = ({ blog, handleBookmarks }) => {
+const Blog = ({ blog, handleBookmarks, handleMarkAsRead }) => {
   const {
     title,
     cover,
@@ -23,14 +23,17 @@ const Blog = ({ blog, handleBookmarks }) => {
           </div>
         </div>
         <div className="flex items-center gap-2 text-2xl">
-          <p className="text-xl font-medium">{reading_time}</p>
-          <button onClick={handleBookmarks} className="text-green-600">
+          <p className="text-xl font-medium">{reading_time} mins</p>
+          <button
+            onClick={() => handleBookmarks(blog)}
+            className="text-green-600"
+          >
             <FiBookmark></FiBookmark>
           </button>
         </div>
       </div>
       <div className="mt-5">
-        <h2 className="text-[40px] font-bold">Title: {title} </h2>
+        <h2 className="text-[40px] font-bold"> {title} </h2>
         <div className="mt-2">
           {hashtags.map((hash, idx) => (
             <span key={idx} className="">
@@ -41,11 +44,19 @@ const Blog = ({ blog, handleBookmarks }) => {
           ))}
         </div>
       </div>
+      <button
+        onClick={() => handleMarkAsRead(reading_time)}
+        className="text-purple-700 underline"
+      >
+        Mark as read
+      </button>
     </div>
   );
 };
 
 Blog.propTypes = {
   blog: PropTypes.object.isRequired,
+  handleBookmarks: PropTypes.func.isRequired,
+  handleMarkAsRead: PropTypes.func.isRequired,
 };
 export default Blog;

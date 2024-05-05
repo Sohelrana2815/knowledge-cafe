@@ -6,47 +6,47 @@
     "author_img": "https://i.postimg.cc/tCtPRgRY/boy1.png",
     "posted_date": "2024-05-04",
     "hashtags": ["space", "astronomy", "universe"],
-    "reading_time": "15 mins",
+    "reading_time": 15,
     "cover": "https://i.ibb.co/23b3XbW/Rectangle-1-1.jpg"
   },
   {
     "id": 2,
     "author": "Jane Smith",
-    "title": "How to get your first job as a self-taught programmer",
+    "title": "Insightful Ink: Thoughts & Musings",
     "author_img": "https://i.postimg.cc/vmjx2ghS/girl1.jpg",
     "posted_date": "2024-05-03",
     "hashtags": ["cooking", "food", "recipes"],
-    "reading_time": "10 mins",
+    "reading_time": 10,
     "cover": "https://i.ibb.co/J3K2TTD/Rectangle-1-2.jpg"
   },
   {
     "id": 3,
     "author": "Alex Johnson",
-    "title": "How to get your first job as a self-taught programmer",
+    "title": "DataStream Chronicles: Exploring Knowledge",
     "author_img": "https://i.postimg.cc/1tqnkmYR/girl2.jpg",
     "posted_date": "2024-05-02",
     "hashtags": ["programming", "python", "coding"],
-    "reading_time": "20 mins",
+    "reading_time": 20,
     "cover": "https://i.postimg.cc/Dw9CVZxm/java.jpg"
   },
   {
     "id": 4,
     "author": "Emily Brown",
-    "title": "How to get your first job as a self-taught programmer",
+    "title": "The Digital Pen: Stories & Perspectives",
     "author_img": "https://i.postimg.cc/1tqnkmYR/girl2.jpg",
     "posted_date": "2024-05-01",
     "hashtags": ["meditation", "mindfulness", "wellness"],
-    "reading_time": "12 mins",
+    "reading_time": 12,
     "cover": "https://i.ibb.co/X3QsJCC/Rectangle-1.jpg"
   },
   {
     "id": 5,
     "author": "Michael Lee",
-    "title": "How to get your first job as a self-taught programmer",
+    "title": "WisdomBytes: Sharing Perspectives",
     "author_img": "https://i.postimg.cc/RZgHfbHm/boy2.jpg",
     "posted_date": "2024-04-30",
     "hashtags": ["investing", "finance", "stocks"],
-    "reading_time": "18 mins",
+    "reading_time": 18,
     "cover": "https://i.postimg.cc/RZY0vrtW/4.jpg"
   }
 ]
